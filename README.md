@@ -10,7 +10,7 @@
 My app is so great, sometimes it works! Just download the script, add some execute permissions and run it. The results should show you a list of all the cat pitctures on your machine.
 
 ```javascript
-Javascript code bloack to highlight whats up in my code
+Javascript code block to highlight whats up in my code
 ```
 
 * A single star creates a large heading
