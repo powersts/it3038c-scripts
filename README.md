@@ -13,12 +13,12 @@ My app is so great, sometimes it works! Just download the script, add some execu
 Javascript code block to highlight whats up in my code
 ```
 
-# A single star creates a large heading.
+# A single number sign creates a large heading.
 
-## Two stars is less.
+## Two number signs is less.
 
-### Three stars even less.
+### Three number signs even less.
 
-#### Four stars looks normal.
+#### Four number signs looks normal.
 
 ======
