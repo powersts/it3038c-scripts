@@ -16,7 +16,7 @@
 
 ### Open Visual Studio Code, if you do not have it downloaded go to this link to download it https://code.visualstudio.com/download, and open the file.
 
-### Once you have the file open in Visual Studio Code you can run the code.
+### Once you have the file open in Visual Studio Code you can run the code by clicking the play button in the top right.
 
 ### The final output should look like
 ```python
