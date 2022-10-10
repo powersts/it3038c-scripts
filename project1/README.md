@@ -26,6 +26,6 @@ python project1.py
 ### The final output should look like
 ```python
 C:\users\<name>\Desktop> project1.py
-It is currently (Current time)
+"It is currently (Current time)"
 ```
 ### After you call the script it will output the time it currently is.
