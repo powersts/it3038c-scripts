@@ -13,14 +13,14 @@
 ### First you have to make sure you have Python and Pip installed on your system. If you don't have Python installed go to https://www.python.org/downloads/ and download it.
 
 ### Once you have Python installed you need to install Pip. You can install pip by running the follwing commands into powershell.
-```powershell
+```
 wget http://bootstrap.pypa.io/get-pip.py -OutFile get-pip.py
 ```
-```powershell
+```
 python get-pip.py
 ```
 ### After you install pip you need to install Pillow. In order to install pillow you need to run the following command.
-```powershell
+```
 pip install pillow
 ```
 
