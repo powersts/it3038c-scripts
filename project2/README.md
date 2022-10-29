@@ -23,4 +23,4 @@
 "The date is: (Current Date)"
 "It is currently (Current time)"
 ```
-### After you call the script it will output the time it currently is.
+### After you call the script it will output the date and the time it currently is.
