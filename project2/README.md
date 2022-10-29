@@ -2,6 +2,7 @@ This is my project 2
 =====================
 
 Overview
+
 In this project I expanded upon my project 1 python script that showed the current time. The script will now show you current date and current time.
 =====================
 
