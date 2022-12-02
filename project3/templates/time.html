@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<p>
+The date is: <span id="currentD">date</span>
+</p>
+<p>
+The time is: <span id="currentT">time</span>
+</p>
+<script>
+const date = new Date();
+const dated = date.toDateString();
+const time = date.toLocaleTimeString();
+document.getElementById("currentD").innerHTML = dated;
+document.getElementById("currentT").innerHTML = time;
+</script>
+{% endblock %}
